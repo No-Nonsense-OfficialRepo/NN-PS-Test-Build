@@ -1,1 +1,1 @@
-522e6c3c4795ae5643f635db0cfbca9a39d262a8c7ab19e32b246b9b41e18042  NNPS-v0.7.1-UI-Test-Windows-x64.zip
+f85ef5525a5d95da67c839ff336b308483cd73bf85f0f0870a7582db1c36563c  NNPS-v0.7.1-Test-Build-Windows-x64.zip

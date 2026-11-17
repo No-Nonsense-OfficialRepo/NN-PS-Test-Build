@@ -1,13 +1,17 @@
-# No-Nonsense Photo Sorter — Test Builds
+# No-Nonsense Photo Sorter (NNPS) — Test Builds
 
-Portable Windows test builds of **No-Nonsense Photo Sorter (NNPS)**.
+Portable Windows test builds of No-Nonsense Photo Sorter.
 
-## Latest preview
+## Download
 
-[Download NNPS v0.7.1 UI Test Build 1](https://github.com/No-Nonsense-OfficialRepo/NN-PS-Test-Build/releases/tag/v0.7.1-ui-test.1) from Releases. Download the ZIP asset, extract the whole archive to a folder, then run `NNPS UI Preview.exe`. Keep the `bin` folder beside the executable.
+[Download the latest NNPS test build](https://github.com/No-Nonsense-OfficialRepo/NN-PS-Test-Build/releases/tag/v0.7.1-test.1). Download the attached ZIP, extract it completely, and run `NNPS Test Build.exe`. Keep the `bin` folder beside the executable. GitHub's automatically generated source ZIP is not the portable app.
 
-This package was built from [NN-PS source commit `5dab4d3`](https://github.com/No-Nonsense-OfficialRepo/NN-PS/commit/5dab4d3173eab4a3293df6be34a97253fd7649ea). It is a preview, not a stable release. The included `build-smoke.json` records successful automated checks of the window, Options, bundled tools, sorting, duplicate detection and face workflows. A clean Windows PC test has not yet been completed.
+## About this build
 
-The archive includes the project's license, third-party notices and applicable bundled license texts. Check `SHA256SUMS.txt` to verify the download.
+- Version: 0.7.1, test build 1, Windows x64.
+- Source: [NN-PS commit `0f01e38`](https://github.com/No-Nonsense-OfficialRepo/NN-PS/commit/0f01e3805d2eb175eb07348b7a9aa58944705763).
+- Verification: packaged smoke checks passed for the window, Options, bundled tools, sorting, duplicate detection, and face workflows. A clean Windows PC test is still outstanding.
+- Integrity: compare your download with [SHA256SUMS.txt](SHA256SUMS.txt).
+- Licensing: the archive contains the project license, third-party notices, and applicable bundled license texts.
 
-Source and issue tracking: [No-Nonsense-OfficialRepo/NN-PS](https://github.com/No-Nonsense-OfficialRepo/NN-PS).
+For source code or issues, visit [NN-PS](https://github.com/No-Nonsense-OfficialRepo/NN-PS).
